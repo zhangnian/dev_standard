@@ -1,3 +1,3 @@
 # 线上问题处理流程
 
-![img](imgs/线上问题处理流程.png)
+![img](imgs/customer_bug.png)
