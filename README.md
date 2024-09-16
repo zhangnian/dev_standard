@@ -61,6 +61,7 @@
   - [线上bug处理流程](customer_bug.md)
   - [APP测试checklist](app_test_checklist.md)
   - [系统发布checklist](release_checklist.md)
+  - [安全测试checklist](security_checklist.md)
 
 
 #### 技能培训大纲
