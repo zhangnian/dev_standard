@@ -68,3 +68,10 @@
 
 - [Python Web开发培训大纲](python_training.md)
 - [高级软件测试培训大纲](test_training.md)
+
+
+#### 知识体系
+- [架构师](architect_mindmap.md)
+- [存储系统](storage_mindmap.md)
+- [缓存系统](cache_mindmap.md)
+- [云原生](cloud_native_mindmap.md)
