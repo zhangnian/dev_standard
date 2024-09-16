@@ -59,7 +59,8 @@
 - **质量管理流程**
   - [版本提测流程](test.md)
   - [线上bug处理流程](customer_bug.md)
-
+  - [APP测试checklist](app_test_checklist.md)
+  - [系统发布checklist](release_checklist.md)
 
 
 #### 技能培训大纲
